@@ -7,3 +7,5 @@ run npm start to run both servers...
 Both servers will restart on save for easy development  
 
 webpack is configured to direct api calls to localhost:8000  
+
+Resource: https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/  
