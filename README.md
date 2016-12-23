@@ -1,8 +1,8 @@
 # Folder Contains a Boiler Plate for a MERN Project
 
 run npm start to run both servers...  
-&nbsp; Express server on localhost:8000   --> Using nodemon  
-&nbsp; React server on localhost:3000   --> Using react-scripts  
+&nbsp;&nbsp;&nbsp; Express server on localhost:8000   --> Using nodemon  
+&nbsp;&nbsp;&nbsp; React server on localhost:3000   --> Using react-scripts  
 
 Both servers will restart on save for easy development  
 
